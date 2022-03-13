@@ -97,6 +97,12 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <componentName>PictureGalleryCard</componentName>
+                <identifier>c_PictureGalleryCard1</identifier>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
                 <componentInstanceProperties>
                     <name>tabs</name>
                     <value>maintabs</value>
